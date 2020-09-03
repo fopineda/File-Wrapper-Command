@@ -12,7 +12,7 @@ I'm assuming you have python3 installed. If not, then you can easily download it
 
 1. Clone or download project
     ```bash
-    git clone <enter URL>
+    git clone https://github.com/fopineda/File-Wrapper-Command.git
     ```
 That's all...
 
